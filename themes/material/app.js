@@ -65,9 +65,7 @@ function nav(path) {
 		}
 	}
 	html += `<div class="mdui-toolbar-spacer"></div>
-    <a href="https://google.com" target="_blank" class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white" mdui-tooltip="{content: 'Hello'}">
-  
-    </a>`;
+   
 	$('#nav').html(html);
 }
 
