@@ -87,11 +87,11 @@ function list(path){
 	    </div> 
 	    <div class="mdui-col-sm-3 mdui-text-right">
         Change the time
-	<i class="mdui-icon material-icons icon-sort" data-sort="date" data-order="downward">expand_more</i>
+	<i class="mdui-icon material-icons icon-sort" data-sort="date" data-order="upward">expand_more</i>
 	    </div> 
 	    <div class="mdui-col-sm-2 mdui-text-right">
 	     Size
-	<i class="mdui-icon material-icons icon-sort" data-sort="size" data-order="downward">expand_more</i>
+	<i class="mdui-icon material-icons icon-sort" data-sort="size" data-order="upwnward">expand_more</i>
 	    </div> 
 	    </li> 
 	  </ul> 
